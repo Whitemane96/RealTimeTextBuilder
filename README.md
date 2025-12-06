@@ -11,7 +11,7 @@ Simple tool written in JavaScript that allows you to input text from multiple HT
     - Added a button that creates multiple inputs as needed.
     - Date formatting.
 - Responsiveness.
-- 2 columns layour display.
+- 2 columns layout display.
 
 ## Usage
 
