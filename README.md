@@ -17,6 +17,10 @@ Simple tool written in JavaScript that allows you to input text from multiple HT
 
 Just open the index.html and that should be it. Unless you want to start a localhost with your preferred method.
 
+## Live Demo
+
+https://realtimetextbuilder-513840240952.europe-west1.run.app/
+
 ## Credits
 
 Just practicing around and trying to build a portfolio for myself, a simple nerd who likes programming and videogames :)
